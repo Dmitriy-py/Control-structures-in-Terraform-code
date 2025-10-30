@@ -71,7 +71,7 @@ storage ansible_host=<внешний ip-адрес> fqdn=<полное доме�
 
 ### Ссылка на коммит: https://github.com/Dmitriy-py/ter-homeworks/tree/terraform-03
 
-Задание 5* (необязательное)
+## Задание 5* (необязательное)
 Напишите output, который отобразит ВМ из ваших ресурсов count и for_each в виде списка словарей :
 [
  {

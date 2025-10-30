@@ -1,2 +1,3 @@
-# Control-structures-in-Terraform-code
-Control structures in Terraform code
+# Домашнее задание к занятию «Управляющие конструкции в коде Terraform»
+
+## `Дмитрий Климов`

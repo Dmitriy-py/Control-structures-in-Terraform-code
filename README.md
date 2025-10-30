@@ -91,7 +91,9 @@ storage ansible_host=<внешний ip-адрес> fqdn=<полное доме�
 
 <img width="1920" height="1080" alt="Снимок экрана (1694)" src="https://github.com/user-attachments/assets/07bba1e4-fd6d-47ec-b90c-01fdeb59f863" />
 
-### Ссылка: 
+### Ссылка: https://github.com/Dmitriy-py/Control-structures-in-Terraform-code/tree/da81cbbaa3e8f92f2a2d3c2564465f42062a59db/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%84%965
+
+
 
 
 

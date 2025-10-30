@@ -28,6 +28,26 @@ variable "each_vm" {
 
 <img width="1920" height="1080" alt="Снимок экрана (1689)" src="https://github.com/user-attachments/assets/47ebb74f-64ed-4f94-90ec-7231cdc1e25b" />
 
-### Ссылка : https://github.com/Dmitriy-py/Control-structures-in-Terraform-code/tree/4a2662c78a0ccbfac8395378ac42bb60301ad565/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%84%962
+### Ссылка: https://github.com/Dmitriy-py/Control-structures-in-Terraform-code/tree/4a2662c78a0ccbfac8395378ac42bb60301ad565/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%84%962
+
+
+## Задание 3
+
+Создайте 3 одинаковых виртуальных диска размером 1 Гб с помощью ресурса yandex_compute_disk и мета-аргумента count в файле disk_vm.tf .
+Создайте в том же файле одиночную(использовать count или for_each запрещено из-за задания №4) ВМ c именем "storage" . Используйте блок dynamic secondary_disk{..} и мета-аргумент for_each для подключения созданных вами дополнительных дисков.
+
+## Ответ:
+
+<img width="1920" height="1080" alt="Снимок экрана (1690)" src="https://github.com/user-attachments/assets/b30d19f5-1b05-48da-aa44-d074fa372aae" />
+
+### Ссылка:
+
+
+
+
+
+
+
+
 
 

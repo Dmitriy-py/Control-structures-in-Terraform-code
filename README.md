@@ -40,7 +40,7 @@ variable "each_vm" {
 
 <img width="1920" height="1080" alt="Снимок экрана (1690)" src="https://github.com/user-attachments/assets/b30d19f5-1b05-48da-aa44-d074fa372aae" />
 
-### Ссылка:
+### Ссылка: https://github.com/Dmitriy-py/Control-structures-in-Terraform-code/tree/efb4df0e6e50a2fb4ba473b96357e20824d1a502/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%84%963
 
 
 
